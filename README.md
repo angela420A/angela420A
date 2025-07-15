@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm Angela, a machine learning engineer in Taipei Ciry.
+I'm Angela, a machine learning engineer in Taipei City.
 
 <br />
 
