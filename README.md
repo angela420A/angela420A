@@ -2,9 +2,11 @@
 
 I'm Angela, a machine learning engineer in Taipei Ciry.
 
+<br />
 
-**Say hi!**
 
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/angela-g-b90519256/)
 
 <!--
 **angela420A/angela420A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
