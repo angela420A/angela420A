@@ -1,4 +1,10 @@
-## Hi there 👋🏻
+### Hi there 👋🏻
+
+I'm Angela, a machine learning engineer in Taipei Ciry.
+
+
+**Say hi!**
+
 
 <!--
 **angela420A/angela420A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
