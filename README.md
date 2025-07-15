@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻
 
 <!--
 **angela420A/angela420A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
